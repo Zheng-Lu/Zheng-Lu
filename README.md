@@ -45,7 +45,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Zheng-Lu&repo=Zheng-Lu&countColorcountColor&countColor=%237B1E7B"/>
 
 ## 📝 Contact with me 
 
