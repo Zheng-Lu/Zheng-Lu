@@ -1,7 +1,5 @@
 <h1 align="center"> Hello There, I'm Zheng 👋 </h1>
 
-<!--
-**Zheng-Lu/Zheng-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 📖 About me
 
