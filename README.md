@@ -4,12 +4,9 @@
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
+* 💻 I'm a full stack developer
 * 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Artificial Intelligence & Computer Science student 
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+* 🎓 I'm an Artificial Intelligence & Computer Science student 
 
 ---
 
