@@ -1,5 +1,6 @@
 <h1 align="center"> Hello There, I'm Zheng 👋 </h1>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## 📖 About me
 
