@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 My Github stats
+## 📊 My Github Analytics
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
