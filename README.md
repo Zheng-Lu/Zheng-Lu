@@ -26,6 +26,8 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Lu](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zheng-Lu&layout=compact&langs_count=8&theme=algolia"/>
