@@ -27,7 +27,7 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Lu&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Lu&layout=compact)
 </br>
 
 <p align="center">
