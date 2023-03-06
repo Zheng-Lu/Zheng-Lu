@@ -21,11 +21,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zheng-Lu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</p>
+</p> -->
 
 <h4 align="center">Top langs :tongue:</h4>
 
