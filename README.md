@@ -72,7 +72,7 @@
    </a>
  
  
-### 👉 Frontend Development
+<!-- ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -82,7 +82,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-</p>
+</p> -->
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
@@ -92,13 +92,13 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
   
-### 👉Graphic Designing
+<!-- ### 👉Graphic Designing
 <p align="left">
   &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
-</p>
+</p> -->
 
  ### 👉 Software & Tools
  
